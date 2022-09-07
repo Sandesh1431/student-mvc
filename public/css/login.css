@@ -1,0 +1,35 @@
+.log{
+    width:300px;
+margin:30px;
+height:40px;
+    display:flex;
+   
+
+}.btnlog{
+display:block;
+height:40px;
+position:relative;
+width:100px;    
+left:100px;
+
+}
+
+
+.link{
+
+    position:relative;
+left:100px;
+}
+
+.formlr{
+  
+    width:370px;
+    height:500px;
+    position:relative;
+top:30px;
+left:500px;
+
+
+}.login-title{
+padding-left: 130px;
+}
